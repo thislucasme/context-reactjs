@@ -42,8 +42,7 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 - [@thislucasme](https://www.github.com/thislucasme)
 
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+
 
 
 ## Uso/Exemplos
